@@ -9,3 +9,5 @@ me=MyGit()
 me.say_sth(me.greet)
 me.say_sth("where do you work?")
     
+shadow=MyGIT()
+shadow.say_sth("i am shadow!")
