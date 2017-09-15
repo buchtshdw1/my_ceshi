@@ -11,3 +11,5 @@ me.say_sth("where do you work?")
     
 shadow=MyGIT()
 shadow.say_sth("i am shadow!")
+shadow.say_sth("gonna do some branch test now")
+
